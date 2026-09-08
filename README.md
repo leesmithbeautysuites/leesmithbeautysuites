@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="leesmith-logo.png" width="170" alt="LeeSmith Beauty Suites Logo">
+
 # LEESMITH BEAUTY SUITES
 
 ### Your space. Your beauty business.
@@ -9,7 +11,6 @@ Private, professional suites for independent beauty and wellness professionals.
 🌐 https://leesmithbeautysuites.github.io/
 
 </div>
-
 ---
 
 ## About LeeSmith Beauty Suites
